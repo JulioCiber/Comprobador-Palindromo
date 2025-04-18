@@ -52,7 +52,7 @@ Introduce una cadena de texto para comprobar si es palíndroma: anitalavalatina
 La cadena de texto introducida es un palíndromo.
 ```
 ### 4. Ejecutar pruebas automáticas con unittest
-El proyecto incluye un archivo de pruebas con *unittest* para verificar su correcto funcionamiento. Para ejecutar las pruebas, utilizr el siguiente comando:
+El proyecto incluye un archivo de pruebas con *unittest* para verificar su correcto funcionamiento. Para ejecutar las pruebas, utiliza el siguiente comando:
 ```bash
 python test_charfun.py
 ....
