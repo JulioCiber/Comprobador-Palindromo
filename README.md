@@ -18,7 +18,7 @@ Programa realizado en Python para comprobar si una cadena es un palíndromo.
 
 ## Descripción
 
-Este programa ayuda a verificar si una palabra o frase es un palíndromo, ignorando espacios, signos de puntuación, además de diferenciar entre mayúsculas y minúsculas. Sus funciones principales incluyen el análisis de frases completas y la realización de pruebas automáticas para asegurar su correcto funcionamiento.
+Este programa ayuda a verificar si una palabra o frase introducida por el usuario es un palíndromo, ignorando espacios, signos de puntuación, además de diferenciar entre mayúsculas y minúsculas. Sus funciones principales incluyen el análisis de frases completas y la realización de pruebas automáticas para asegurar su correcto funcionamiento.
 
 ---
 ## Tecnologías utilizadas
