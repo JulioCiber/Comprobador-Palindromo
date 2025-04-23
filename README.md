@@ -63,7 +63,7 @@ Ran 4 tests in 0.000s
 ## Características
 
 Características principales:
--  **Verificación de palíndromos**: El programa analiza la cadena de texto y devuelve si es un palíndromo o no.
+-  **Verificación de palíndromos**: Este programa analiza la cadena de texto y devuelve si es un palíndromo o no.
 -  **Eliminación a espacios y puntuación**: El programa detecta palíndromos eliminando automáticamente espacios y signos de puntuación antes de analizar el texto.
 -  **Pruebas automatizadas**: Incluye pruebas unitarias para garantizar que las funcionalidades del programa estén trabajando correctamente.
 
